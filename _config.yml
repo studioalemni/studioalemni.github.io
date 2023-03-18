@@ -21,13 +21,12 @@
 title: Studio Alemni
 email: admin@studioalemni.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Independent game studio based out of Connecticut, USA. Currently developing 
-  Legends of Astravia: a classic 2D RPG for Windows and MacOS.
+  Independent game studio based out of Connecticut, USA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://studioalemni.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: studiooalemni.github.io
 twitter_username: studioalemni
-github_username: studioalemni
+youtube_username: "@studioalemni"
 
 # Build settings
 theme: minima
