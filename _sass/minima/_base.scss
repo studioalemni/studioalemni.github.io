@@ -95,6 +95,8 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  font-family: $heading-font-family;
+  margin-top: $spacing-unit;
 }
 
 
@@ -106,9 +108,9 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  // &:visited {
+  //   color: darken($brand-color, 15%);
+  // }
 
   &:hover {
     color: $text-color;
@@ -151,7 +153,7 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: rgb(9, 9, 10);
 }
 
 code {
