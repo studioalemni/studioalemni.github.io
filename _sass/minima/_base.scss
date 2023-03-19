@@ -40,8 +40,6 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
  * `main` element
  */
@@ -97,6 +95,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
   font-family: $heading-font-family;
   margin-top: $spacing-unit;
+  color: lighten($text-color, 10%)
+}
+
+h2 {
+  text-align: center;
 }
 
 
@@ -169,6 +172,10 @@ pre {
     padding-right: 0;
     padding-left: 0;
   }
+}
+
+hr {
+  border: 1px solid $text-color;
 }
 
 
@@ -252,5 +259,46 @@ table {
   }
   td {
     border: 1px solid $grey-color-light;
+  }
+}
+
+/**
+* Hero
+**/
+.hero-banner {
+  height: 650px;
+  padding-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
+
+  .hero-image {
+    height: 90%;
+  
+    background-position: 50% 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .hero-logo {
+    max-width: 50%;
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    // img {
+    //   height: auto;
+    //   max-height: 35%;
+    // }
+  }
+  .hero-text {
+    margin: 0;
+    height: 10%;
+    font-weight: 700;
+    font-size: 1.1em;
+    text-align: center;
+
+    * {
+      display: inline;
+    };
   }
 }

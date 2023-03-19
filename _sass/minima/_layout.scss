@@ -8,14 +8,8 @@
   background-color: $header-color;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
-}
-
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.site-header.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
+  position: sticky;
+  top: 0px;
   @include media-query($on-palm) {
     // Override sticky settings
     position: relative;
@@ -221,10 +215,6 @@
   flex: 1;
 }
 
-.page-content.sticky {
-  padding: $spacing-unit * 4 0;
-}
-
 .page-heading {
   @include relative-font-size(2);
 }
@@ -234,12 +224,12 @@
 }
 
 .post-list {
-  margin-left: 0;
-  list-style: none;
-
-  > li {
-    margin-bottom: $spacing-unit;
-  }
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  column-gap: 15px;
+  row-gap: 15px;
+  margin: $spacing-unit 0;
 }
 
 .post-meta {
@@ -259,11 +249,15 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  padding: 0 10px;
+  border-bottom: 1px solid $grey-color-dark;
 }
 
 .post-title {
   @include relative-font-size(2.625);
+  font-family: $heading-font-family;
   letter-spacing: 1px;
+  margin-top: 5px;
   line-height: 1;
 
   @include media-query($on-laptop) {

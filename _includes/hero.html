@@ -1,0 +1,22 @@
+<style>
+    .hero-image {
+        background-image: linear-gradient(0deg, #10121c 0%, rgba(0, 0, 0, 0) 60%), url('{{page.hero.image | relative_url}}');
+    }
+</style>
+<div class="hero-banner">
+    <div class="hero-image">
+        {% if page.hero.logo %}
+            <div class="hero-logo">
+                <img src="{{ page.hero.logo | relative_url }}"/>
+            </div>
+        {% endif %}
+    </div>
+    <div class="hero-text">
+        {% if page.hero.text %}
+            <p>{{ page.hero.text }}</p>
+        {% endif %}            
+        {% if page.hero.button_text %}
+            <a class="hero-button" href="{{ page.hero.button_link }}">{{ page.hero.button_text }}</a>
+        {% endif %}
+    </div>
+</div>
