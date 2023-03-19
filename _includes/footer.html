@@ -7,7 +7,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+        <!-- <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
@@ -18,15 +18,21 @@
           {%- if site.email -%}
           <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
+        </ul> -->
         {%- include social.html -%}
       </div>
 
+      <div class="footer-col footer-col-2">
+        <p class="footer-center">© 2023 Studio Alemni</p>
+      </div>
+
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <!-- <small>{{- site.description | escape -}}</small> -->
+        <div class="footer-list">
+          {% for link in site.data.footer_links %}
+            <div class="list-item"><a href="{{ link.url | relative_url}}">{{ link.title }}</a></div>
+          {% endfor %}
+        </div>
       </div>
     </div>
 
