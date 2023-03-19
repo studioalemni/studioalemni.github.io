@@ -215,8 +215,27 @@
   flex: 1;
 }
 
+/* Override for hero / banner images */
+.page-content.no-pad {
+  padding: 0;
+  padding-bottom: $spacing-unit;
+}
+
 .page-heading {
   @include relative-font-size(2);
+}
+
+.page-title {
+  @include relative-font-size(2.625);
+  font-family: $heading-font-family;
+  letter-spacing: 1px;
+  margin-top: 5px;
+  line-height: 1;
+  min-height: 55px;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(2.25);
+  }
 }
 
 .post-list-heading {
@@ -227,9 +246,14 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
-  column-gap: 15px;
-  row-gap: 15px;
+  column-gap: $spacing-unit;
+  row-gap: $spacing-unit;
   margin: $spacing-unit 0;
+  
+  @include media-query($on-palm) {
+    // Override sticky settings
+    grid-template-columns: 1fr;
+  }
 }
 
 .post-meta {
@@ -254,15 +278,19 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(1.5);
   font-family: $heading-font-family;
   letter-spacing: 1px;
-  margin-top: 5px;
+  margin-bottom: 10px;
   line-height: 1;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+    @include relative-font-size(1.2);
   }
+}
+
+.post-thumbnail {
+  margin-bottom: $spacing-unit;
 }
 
 .post-content {
