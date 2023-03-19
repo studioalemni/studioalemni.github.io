@@ -5,8 +5,6 @@ alt_title: Frequently Asked Questions
 permalink: /faqs/
 ---
 
----
-
 ## General
 #### What is Studio Alemni?
 
