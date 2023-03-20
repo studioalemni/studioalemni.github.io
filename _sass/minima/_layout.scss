@@ -10,6 +10,7 @@
   // Positioning context for the mobile navigation icon
   position: sticky;
   top: 0px;
+  z-index: 1;
   @include media-query($on-palm) {
     // Override sticky settings
     position: relative;
