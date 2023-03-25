@@ -364,6 +364,10 @@
       font-weight: bolder;
       justify-self: right;
       padding: 2px 5px;
+
+      @include media-query($on-palm) {
+        justify-self: unset;
+      }
     }
 
     .credits-col-2 {
