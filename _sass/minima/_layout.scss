@@ -334,3 +334,53 @@
 .widget-container {
   padding: 0 10px;
 }
+
+/* Credits Page / Table */
+.credits {
+  p {
+    text-align: center;
+  }
+
+  .credits-table {
+    display: grid;
+    justify-content: center;
+  }
+
+  .credits-row {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: $spacing-unit;
+
+    &.header {
+      display:inline;
+    }
+
+    h1, h2, h3 {
+      text-align: center;
+    }
+
+    .credits-col-1 {
+      color: $grey-color;
+      font-weight: bolder;
+      justify-self: right;
+      padding: 2px 5px;
+    }
+
+    .credits-col-2 {
+      justify-self: left;
+      padding: 2px 5px;
+    }
+  }
+
+  .credits-row.contributors {
+    .credits-col-1 {
+      color: $text-color;
+      font-weight: unset;
+      justify-self: center;
+    }
+
+    .credits-col-2 {
+      justify-self: center;
+    }
+  }
+}
