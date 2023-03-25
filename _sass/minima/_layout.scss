@@ -300,11 +300,18 @@
 }
 
 .post-thumbnail {
-  margin-bottom: $spacing-unit;
+  margin-bottom: 15px;
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
+  h1 {
+    @include relative-font-size(2.3);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(2);
+    }
+  }
 
   h2 {
     @include relative-font-size(2);

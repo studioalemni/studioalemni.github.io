@@ -12,7 +12,7 @@ Hello everyone,
 February was a very productive month, and development on the game is going well. Similar to January, the focus is laying down the foundation and organizing, while simultaneously working on the game's content. 
 
 No Longer "Solo"
----
+===
 The first key detail I'd like to mention is that the project is officially no longer a "solo" project. Granted I've always had help from various collaborators and freelancers, I have not had anyone actually assisting me with development. But that's no longer the case, because Fangsoft has joined the team to help me get Legends of Astravia's first chapter to the finish line!
 
 (fangsoft writing at desk art)
@@ -26,7 +26,7 @@ She's also Astravia's resident Screenshot Expert™, and responsible for all of 
 (screenshot)
 
 New Tactics
----
+===
 With Fangsoft's help, we've taken a different approach to the game's development. Previously, I would go one area at a time, creating full and complete maps with all of the little details. While this made for great promotional material, it also lead to "tunnel vision".
 
 But thanks to this new method, all of the groundwork and infrastructure has been laid down, and Oliver is already able to reach the credits! A rough version of every map from start to finish is created. 
@@ -40,7 +40,7 @@ The immediate areas after the demo also received some touching up. Mordin Villag
 (mordin Village)
 
 New Tools
----
+===
 With this new approach, I needed to create a lot more placeholders, and ended up making some special tools to speed up the process.
 
 Automation tools are incredibly important in game development. If there is a task you find yourself manually repeating over and over, there is a good chance you can write a script or macro to make it go a lot faster.
@@ -62,7 +62,7 @@ This allowed me to take my spreadsheet asset list and turn it into workable file
 I'm honestly a little excited to see what other development tasks I can streamline by making tools like this!
 
 Other Notable Progress
----
+===
 Overall, this month felt super productive. Here are a few more things that didn't really warrant their own section:
 
 - Created lots of additional documentation, including a spreadsheet that shows how every map in the game connects.
