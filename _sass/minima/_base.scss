@@ -266,9 +266,14 @@ table {
 * Hero
 **/
 .hero-banner {
-  height: 650px;
-  padding-bottom: $spacing-unit;
   margin-bottom: $spacing-unit;
+  display: flex;
+  flex-direction: column;
+  height: 35vw;
+
+  @media screen and (min-width: 2000px) {
+    height: 40vw;
+  }
 
   .hero-image {
     height: 90%;
@@ -277,18 +282,15 @@ table {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 25vw;
+
   }
   .hero-logo {
-    max-width: 50%;
     margin: 0;
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    transform: translate(-50%, -100%);
-    // img {
-    //   height: auto;
-    //   max-height: 35%;
-    // }
+    align-self: center;
   }
   .hero-text {
     margin: 0;
@@ -300,5 +302,9 @@ table {
     * {
       display: inline;
     };
+
+    @include media-query($on-palm) {
+      font-size: 0.7em;
+    }
   }
 }
