@@ -5,9 +5,6 @@ alt_title: ''
 permalink: /games/legends-of-astravia
 description: Traverse a world of magic and confront the secrets of your past in this exploration and story driven RPG.
 art_path: assets/images/loa_box.png
-steam: https://www.example.com/
-itch: https://www.example.com/
-epic: https://www.example.com/
 header_image: assets/loa/21-9_banner-Logo_smaller.jpg
 ---
 

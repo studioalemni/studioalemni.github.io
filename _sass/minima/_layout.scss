@@ -395,3 +395,50 @@
     }
   }
 }
+
+/* Featured game blocks */
+.game-feature {
+  margin-bottom: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  border-bottom: 1px solid $grey-color-dark;
+  @include relative-font-size(1.2);
+
+  .feature {
+    display: flex;
+    flex-flow: row;
+    margin-bottom: $spacing-unit * 2;
+    
+    h3 {
+      @include relative-font-size(1.8);
+      margin-bottom: 0;
+    }
+
+    .feature-text {
+      padding-top: $spacing-unit;
+      padding-right: 20px;
+      text-align: left;
+      order: 1;
+    }
+    .feature-image {
+      order: 2;
+    }
+
+    &.reverse {
+      .feature-text {
+        padding-right: unset;
+        padding-left: 20px;
+        text-align: right;
+        order: 2;
+      }
+      .feature-image {
+        order: 1;
+      }
+    }
+  }
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}

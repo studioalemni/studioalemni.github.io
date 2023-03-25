@@ -8,28 +8,13 @@ hero:
     button_link: https://store.steampowered.com/app/1233680/Legends_of_Astravia/
 ---
 
-Featured Game Block
-
-**Key Point 1**
-
-Lorem ipsum
-
-**Key Point 2**
-
-Lorem ipsum
-
-**Key Point 3**
-
-Lorem ipsum
-
-**Learn More**
-
+{% include game_feature.html game='legends-of-astravia' %}
 
 # Featured News
 {% include featured_news.html %}
 
 # Community
-The following places are where you can connect with the developers and other fans who played the demo and are eagerly awaiting the release of Legends of Astravia.
+The following places are where you can connect with the Studio Alemni team, as well as other fans who are eagerly awaiting the release of Legends of Astravia.
 {% include community.html %}
 
 

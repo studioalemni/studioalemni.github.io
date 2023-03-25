@@ -1,0 +1,17 @@
+<div class="game-feature">
+    {% assign game_name = include.game %}
+    {% for feature in site.data.games[game_name].featured_blocks %}
+    <div class="feature{% if forloop.index0 == 1 %} reverse{% endif %}">
+        <div class="feature-text">
+            <h3>{{ feature.title }}</h3>
+            <p>{{ feature.text }}</p>
+        </div>
+        <div class="feature-image">
+            <img src="{{ feature.image | relative_url }}">
+        </div>
+    </div>
+    {% endfor %}
+    <div class="center-content">
+        <a class="button arrow" href="{{ site.data.games[game_name].links.local | relative_url }}"><span>Learn More</span></a>
+    </div>
+</div>
