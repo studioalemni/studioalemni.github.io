@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  letter-spacing: $base-letter-spacing;
 }
 
 
@@ -265,11 +266,7 @@ table {
   margin-bottom: $spacing-unit;
   display: flex;
   flex-direction: column;
-  height: 35vw;
-
-  @media screen and (min-width: 2000px) {
-    height: 40vw;
-  }
+  height: 40vw;
 
   .hero-image {
     height: 90%;
@@ -298,8 +295,17 @@ table {
     * {
       display: inline;
     };
+  }  
 
-    @include media-query($on-palm) {
+  @include media-query($on-palm) {
+    height: 60vw;
+
+    .hero-image {
+      background-position: 50% 0;
+      padding: 0 10vw;
+    }
+
+    .hero-text {
       font-size: 0.7em;
     }
   }

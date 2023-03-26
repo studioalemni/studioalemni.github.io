@@ -9,7 +9,7 @@ redirect_from:
 
 For **Legends of Astravia** Chapter 1, 2, and 3
 
-© Studio Alemni LLC 2023
+© Studio Alemni LLC 2017-{{ "now" | date: "%Y" }}
 
 Developed using RPG Maker XP
 

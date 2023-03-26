@@ -262,6 +262,7 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  text-align: justify;
 }
 
 .post-link {
@@ -301,6 +302,19 @@
 
 .post-thumbnail {
   margin-bottom: 15px;
+  
+  a {
+    & > img {
+      border: 1px solid rgba(0,0,0,0);
+    }
+  
+    & > img:hover {
+      opacity: 0.8;
+      transition: 0.2s;
+      box-shadow: 0 0 4px 2px rgba(209, 210, 216, 0.5);
+      border: 1px solid #d1d2d8;
+    }
+  }
 }
 
 .post-content {
@@ -335,6 +349,13 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+
+  p > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0;
   }
 }
 
