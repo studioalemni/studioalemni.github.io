@@ -12,7 +12,7 @@ Studio Alemni has received a spiffy new website update!
 
 **Why the sudden change?**
 
-Well, the original website was launched on Squarespace in early 2021--and after some consideration (and numerous difficulties with that platform)--I decided it was time for a custom implementation from the ground up. I wanted something that would be custom-tailored to my needs as a developer as well as easily scalable for future games.
+Well, the original website was launched on Squarespace in early 2021--and after some consideration (and numerous difficulties with that platform)--I decided it was time for a custom implementation from the ground up. I wanted something that would be tailored to my needs as a developer as well as easily scalable for future games.
 
 There are a lot of aspects that I think will both improve my experience personally with writing developer's logs and adding / updating content, as well as improve visitors' experience with clearer navigation and responsiveness.
 
