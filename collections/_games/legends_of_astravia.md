@@ -24,12 +24,12 @@ A free demo is currently available, to allow players to get an idea about what t
 {% include image_gallery.html gallery=site.data.galleries.loa-game-page %}
 
 # Features
-- Dynamic timer-based battle system that encourages quick decision making. The twist: you control the timer! No more waiting for bars to fill up or turns to pass.
-- A varied cast of playable characters, each with a unique combat style and abilities to help you arrange the perfect team.
-- Vast, explorable overworld filled with dungeons, caves, and towns. There are challenging puzzles to solve and treasures to find in every corner of Astravia.
-- Avoidable enemy encounters. Choose your own path instead of being at the mercy of unexpected, randomized battles.
-- Modular skill system that allows you to exchange abilities between characters, so you never feel restricted to a particular "build”.
-- An engaging story supported by varied side-quests. Alongside a fulfilling main quest, meet characters all over the world with their own side-quests and special rewards.
+- **Dynamic timer-based battle system that encourages quick decision making.** The twist: you control the timer! No more waiting for bars to fill up or turns to pass.
+- **A varied cast of playable characters,** each with a unique combat style and abilities to help you arrange the perfect team.
+- **Vast, explorable overworld filled with dungeons, caves, and towns.** There are challenging puzzles to solve and treasures to find in every corner of Astravia.
+- **Avoidable enemy encounters.** Choose your own path instead of being at the mercy of unexpected, randomized battles.
+- **Modular skill system that allows you to exchange abilities between characters,** so you never feel restricted to a particular "build”.
+- **An engaging story supported by varied side-quests.** Alongside a fulfilling main quest, meet characters all over the world with their own side-quests and special rewards.
 
 # Story
 
@@ -57,3 +57,7 @@ Thus, the magic-adept Oliver must tread with caution as he escapes the woods of 
 <br>
 
 ---
+
+<br>
+
+*[Click here](/games/loa/credits) to view the game's credits, including collaborators and assets.*

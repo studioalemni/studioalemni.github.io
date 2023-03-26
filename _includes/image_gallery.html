@@ -1,3 +1,4 @@
+<p><em>Images will open in a new tab / window.</em></p>
 {% assign size_odd = {{ include.gallery.images.size | modulo: 2 }} %}
 <div class="gallery{% if include.gallery.images.size <= 4 %} two-column{% elsif size_odd == 0 %} three-column{% else %} four-column{% endif %}">
     {%- for image in include.gallery.images -%}
