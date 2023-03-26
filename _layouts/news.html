@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="news">
+  <div class="return-link">
+    <a href="{{ '/' | relative_url }}">← Return to Homepage</a>
+  </div>
   {%- if page.alt_title or page.title -%}
   <header class="post-header">
     <h1 class="page-title">{{ page.alt_title }}</h1>
