@@ -1,9 +1,21 @@
 name: Legends of Astravia
+description: Traverse a world of magic and confront the secrets of your past in this exploration and story driven RPG.
+release_date: TBD
+languages:
+  - English
+  - <br>Japanese (Post-Launch)
+genre: Role-Playing Game
+platforms:
+  - Windows
+  - macOS
+  - <br>Linux (Steam&nbsp;Deck)
+rating: Pending
+developer: Studio Alemni
 links:
   local: /games/legends-of-astravia
-  steam:
-  itch:
-  epic:
+  steam: https://store.steampowered.com/app/1233680/Legends_of_Astravia/
+  itch: https://studioalemni.itch.io/legends-of-astravia
+  epic: 
 box_art: assets/loa/box_art.png
 featured_blocks:
   - title: Manipulate time

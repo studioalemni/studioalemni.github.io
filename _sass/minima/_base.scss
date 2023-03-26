@@ -241,16 +241,18 @@ table {
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
+  table-layout: fixed;
+
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+      background-color: darken($grey-color-dark, 6%);
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
+    background-color: lighten($grey-color-dark, 3%);
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
@@ -258,6 +260,36 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+.game {
+  table {
+    margin-bottom: $spacing-unit;
+    width: 100%;
+    text-align: center;
+    color: lighten($text-color, 18%);
+    border-collapse: separate;
+    border: none;
+    table-layout: fixed;
+  
+    tr {
+      &:nth-child(even) {
+        background-color: unset;
+      }
+    }
+    th, td {
+      padding: unset;
+    }
+    th {
+      background-color: unset;
+      letter-spacing: 1px;
+      font-size: 19px;
+      border: none;
+    }
+    td {
+      border: none;
+    }
+  }
+}
+
 
 /**
 * Hero
@@ -440,4 +472,8 @@ form select {
 
 a.button {
   text-decoration: none;
+}
+
+.center-text {
+  text-align: center;
 }

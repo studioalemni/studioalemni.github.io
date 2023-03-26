@@ -1,0 +1,15 @@
+{% assign size_odd = {{ include.gallery.images.size | modulo: 2 }} %}
+<div class="gallery{% if include.gallery.images.size <= 4 %} two-column{% elsif size_odd == 0 %} three-column{% else %} four-column{% endif %}">
+    {%- for image in include.gallery.images -%}
+    <div class="gallery-thumbnail">
+        <figure>
+            <a target="_blank" href="{{ image.url | relative_url }}">
+                <img src="{{ image.url | relative_url }}" alt="{{ image.alt }}"/>
+            </a>
+            {% if image.title %}
+            <figcaption>{{ image.title }}</figcaption>
+            {% endif %}
+        </figure>
+    </div>
+    {%- endfor -%}
+</div>

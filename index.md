@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 hero:
     image: assets/loa/LoA_KeyArt_Full.jpg
     text: Free demo for Windows and macOS 
