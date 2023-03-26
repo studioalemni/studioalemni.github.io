@@ -4,6 +4,9 @@ title: "2022 Year-End Summary"
 date: "2023-01-10"
 tags: devlog featured
 short_title: "2022 Year-End Summary"
+author: Jaiden
+redirect_from:
+    - /news/developers-log-dec-2022
 ---
 {% assign image_basepath = "/assets/news/2022/dec/" %}
 

@@ -4,6 +4,9 @@ title: "Developer's Log - January 2023"
 date: "2023-02-11"
 tags: devlog
 short_title: "Devlog - January 2023"
+author: Jaiden
+redirect_from:
+    - /news/developers-log-jan-2023
 ---
 {% assign image_basepath = "/assets/news/2023/jan/" %}
 

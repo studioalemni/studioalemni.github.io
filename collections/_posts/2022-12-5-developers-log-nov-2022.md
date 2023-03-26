@@ -4,6 +4,7 @@ title: "New Graphics! (Developer's Log - Nov. 2022)"
 date: "2022-12-05"
 tags: devlog featured announcement
 short_title: "New Graphics!"
+author: Jaiden
 redirect_from:
     - /news/developers-log-nov-2022
 ---

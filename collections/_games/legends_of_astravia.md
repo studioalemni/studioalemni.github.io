@@ -33,8 +33,8 @@ A free demo is currently available, to allow players to get an idea about what t
 
 # Story
 
-**Chapter 1**
-The world of Astravia is in an unstable peace; divided by unrest between mysticians and humans who fear their magic. Once seen as heroes, the passage of time eroded the mysticians' feats into myth, and anyone who shares their likeness in the present day must hide from the ruling country of Valica and its brutal knights.
+### Chapter 1
+The world of Astravia is in an unstable peace; divided by unrest between *mysticians* and humans who fear their magic. Once seen as heroes, the passage of time eroded the mysticians' feats into myth, and anyone who shares their likeness in the present day must hide from the ruling country of Valica and its brutal knights.
 
 Thus, the magic-adept Oliver must tread with caution as he escapes the woods of a Valican territory. Left behind by the mystician Azel and at loss as to how he arrived there, the stakes are raised even higher when Oliver realizes he must pass through the capitol in order to find answers about his past.
 
