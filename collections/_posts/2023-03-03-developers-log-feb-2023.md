@@ -2,7 +2,7 @@
 layout: post
 title: "Developer's Log - February 2023"
 date: "2023-03-03"
-tags: devlog featured
+tags: devlog
 short_title: "Devlog - February 2023"
 author: Jaiden
 redirect_from:
