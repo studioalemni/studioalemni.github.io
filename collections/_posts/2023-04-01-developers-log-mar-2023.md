@@ -2,7 +2,7 @@
 layout: post
 title: "Developer's Log - March 2023"
 date: "2023-04-12"
-tags: devlog featured
+tags: devlog
 short_title: "Devlog - March 2023"
 author: Jaiden
 permalink: /news/developers-log-mar-2023
