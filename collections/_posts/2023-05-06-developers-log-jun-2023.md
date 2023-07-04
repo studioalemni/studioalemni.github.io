@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developer's Log - May & June 2023"
-date: "2023-07-04"
+date: "2023-07-05"
 tags: devlog featured
 short_title: "Devlog - May & June 2023"
 author: Jaiden
