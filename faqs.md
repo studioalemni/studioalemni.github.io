@@ -28,11 +28,13 @@ It is a Japanese-style role-playing game (JRPG) that centers around several char
 
 You’ll find more information on the [detailed game page]({{ '/games/legends-of-astravia' | relative_url }}).
 
+<!--
 #### Where can I play it?
 
 While the final game isn't done yet, there is a free, short demo available on [Steam]({{ loa.links.steam | relative_url }}). A standalone version is also available on [itch.io]({{ loa.links.itch | relative_url }}). 
 
 Though, please keep in mind **this demo is now a little outdated**--it was released in February 2022. The final game will have [updated graphics]({{ '/2022/12/05/developers-log-nov-2022' | relative_url }}) and a lot of gameplay enhancements.
+-->
 
 #### Is it on Steam?
 

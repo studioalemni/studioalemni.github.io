@@ -18,8 +18,6 @@ Lost within the turmoil of Astravia's past, you and your companions must find a 
 # Three-Part Saga
 **Please note:** Legends of Astravia will be delivered in three installments. The first chapter will release first as the base game. The second and final chapter will both release as DLC at a later date, but each one including the first will be a complete game experience with hours of content.
 
-A free demo is currently available, to allow players to get an idea about what to expect from the game before it launches.
-
 # Gallery
 {% include image_gallery.html gallery=site.data.galleries.loa-game-page %}
 
