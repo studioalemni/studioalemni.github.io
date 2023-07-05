@@ -11,7 +11,7 @@ permalink: /news/developers-log-may-jun-2023
 
 ![1]({{ image_basepath | append: "1.png" | relative_url }})
 
-As you might have noticed, this developer's log seems to have skipped a month. Ultimately, May ended up being a much needed month of rest and recharging after we worked very hard on the game's story and integration during the spring. But I'm pleased to report that there is a lot of exciting progress to share as a result. 
+As you might have noticed, this developer's log seems to have skipped a month. Ultimately, May ended up being a much needed month of rest and recharging after we worked very hard on the game's story and integration during the spring. But I'm pleased to report that there is a lot of exciting progress to share as a result.
 
 Content & Integration
 ===
