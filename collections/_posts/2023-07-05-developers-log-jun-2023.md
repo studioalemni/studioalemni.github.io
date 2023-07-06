@@ -25,11 +25,11 @@ All of the chests, collectibles and enemies have had placeholders implemented in
 
 While the maps themselves are not visually completed, and the items in chest are just placeholders, you can run through and interact with every possible chest, collectible, and enemy in the game. In a way, it makes the whole game playable start to finish!
 
-Katie as always was a massive help with this. She took care of integrating all of the monsters and setting up their movement patterns to really give us the push we needed to wrapping this portion up.
+Fang as always was a massive help with this. She took care of integrating all of the monsters and setting up their movement patterns to really give us the push we needed to wrapping this portion up.
 
 Side quests & NPCs
 ---
-All of the extra backstory and side quests have been drafted up, ready to be integrated. Katie made some lovely sketches of the NPCs and created a unique story to tie in to the several cities and towns Oliver visits throughout the game.  We plan to begin integrating these side quests into the game in the coming months.
+All of the extra backstory and side quests have been drafted up, ready to be integrated. Fang made some lovely sketches of the NPCs and created a unique story to tie in to the several cities and towns Oliver visits throughout the game.  We plan to begin integrating these side quests into the game in the coming months.
 
 ![3]({{ image_basepath | append: "3.png" | relative_url }})
 
