@@ -19,7 +19,7 @@ One of the biggest bottlenecks in development at this point is data editing and 
 
 I finally bit the bullet and decided to change how the game handles and loads custom data, and it's likely quadrupled my efficiency. Now instead of needing to constantly close and reopen the game when making edits, I have a couple files I can edit right at runtime.
 
-![1]({{ image_basepath | append: "1.png" | relative_url }})
+![1]({{ image_basepath | append: "1.PNG" | relative_url }})
 
 Additionally, testing battle sequences was a horrifying process. It admittedly lead to me delaying on making cool new battle animations numerous times. Finally, after months of thinking about how I would execute it, I was able to create a proper tool for testing animations. Now I can quickly create and test animations and get through developing new content even faster.
 
