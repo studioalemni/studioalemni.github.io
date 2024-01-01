@@ -19,15 +19,15 @@ links:
 box_art: assets/loa/box_art.png
 featured_blocks:
   - title: Manipulate time
-    image: /assets/loa/feature1.gif
+    image: /assets/loa/MainPromo1.gif
     text: >-
       with exciting battles that utilize a unique balance of quick decision making and careful strategy.
   - title: Journey and explore
-    image: /assets/loa/feature2.gif
+    image: /assets/loa/MainPromo2.gif
     text: >-
       various dungeons, caves, and towns with challenging puzzles and side quests.
   - title: Build your team
-    image: /assets/loa/feature3.gif
+    image: /assets/loa/MainPromo3.gif
     text: >-
       with diverse characters and interchangeable abilities.
 
