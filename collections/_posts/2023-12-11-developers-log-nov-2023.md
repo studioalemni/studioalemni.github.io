@@ -5,7 +5,7 @@ date: "2023-12-10"
 tags: devlog featured
 short_title: "Devlog - November 2023"
 author: Jaiden
-permalink: /news/developers-log-sep-oct-2023
+permalink: /news/developers-log-nov-2023
 ---
 {% assign image_basepath = "/assets/news/2023/nov/" %}
 
