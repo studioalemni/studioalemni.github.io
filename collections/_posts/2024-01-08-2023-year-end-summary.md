@@ -17,7 +17,7 @@ My resolution is to be more kind to myself as an independent developer, and unde
 
 This devlog is a lengthy summary broken into three parts: December's development progress, a summary of the entire year, and plans / announcements for 2024.
 
-Buckle up, because this is a long one! If you'd like to just skip the devlog and 2023 summary and go ahead to the announcements and plans for 2024, [click here]().
+Buckle up, because this is a long one! If you'd like to just skip the devlog and 2023 summary and go ahead to the announcements and plans for 2024, [click here](#plans-for-2024).
 
 # December Developer's Log
 
