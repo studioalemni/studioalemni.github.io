@@ -13,7 +13,7 @@ Hello everyone,
 
 2023 has finally come to an end. I'll admit, I began writing this developer's log thinking I'd only have a couple of bullet points for the game's development and progress. However, it turns out this year has been a very productive one, and just because the game isn't done yet doesn't mean amazing progress wasn't made.
 
-My resolution is to be more kind to myself as an independent developer, and understand that the project has absolutely no funding and that I am working on it entirely in my spare time. With that in mind, and looking just how much we got done this year, I think the project is doing pretty darn good!
+My resolution is to be more kind to myself as an independent developer, and understand that the project is not funded and that I am working on it entirely in my spare time. With that in mind, and looking just how much we got done this year, I think the project is doing pretty darn good!
 
 This devlog is a lengthy summary broken into three parts: December's development progress, a summary of the entire year, and plans / announcements for 2024.
 
@@ -21,7 +21,7 @@ Buckle up, because this is a long one! If you'd like to just skip the devlog and
 
 # December Developer's Log
 
-December was very productive, likely due to the holidays and the significant amount of time off that came with them (a bit of a backwards concept, I admit). Here are some of the quantifiable accomplishments for the month: 
+December went well, likely due to the holidays and the significant amount of time off that came with them (a bit of a backwards concept, I admit). Here are some of the quantifiable accomplishments for the month: 
 
 ### Finished all of the map layout changes for the new demo
 After readjusting the story, some of the core elements of the demo from 2022 will still be in place in the new demo. The order of events has changed a bit though, and as such, so did some of the maps. I actually worked out this initial layout on a piece of scrap paper ahead of reconnecting all of the maps:
@@ -116,7 +116,7 @@ While the work in 2023 ultimately didn't result in the release of the first part
 How this will work mechanically is yet to be decided (DLC vs two full game releases), but plans will become more concrete with the re-release of the demo in the summer.
 
 ### Demo return (Steam NextFest)
-Speaking of which, the demo will indeed make its comeback this year during the summer NextFest. An official announcement will be made sometime in March, and beta testing will begin soon. If you're interested in helping test the game and iron out issues, you can join the [Discord server](https://discord.gg/astravia) to get involved!
+Speaking of which, the demo will indeed make its comeback this year during the next NextFest. An official announcement will be made sometime in March, and beta testing will begin soon. If you're interested in helping test the game and iron out issues, you can join the [Discord server](https://discord.gg/astravia) to get involved!
 
 ### Get the game back on the map
 Legends of Astravia was doing reasonably well from a marketing and interest standpoint at two points during its development: the first demo in 2018, and the second demo in 2022. It seems when people get to play the game, news about it travels. Go figure!
