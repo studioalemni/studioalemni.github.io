@@ -7,7 +7,7 @@ redirect_from:
 ---
 <style> h1 { text-align: center !important; }</style>
 
-For **Legends of Astravia** Chapter 1, 2, and 3
+For **Legends of Astravia** Chapter 1
 
 © Studio Alemni LLC 2017-{{ "now" | date: "%Y" }}
 
