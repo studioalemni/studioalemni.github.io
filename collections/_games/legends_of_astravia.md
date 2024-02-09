@@ -7,36 +7,34 @@ header_image: assets/loa/21-9_banner-Logo_smaller.jpg
 ---
 {% assign game = site.data.games.legends-of-astravia %}
 
-Traverse a world of magic in this classic role-playing game full of exciting battles, dungeons, and secrets.
+Turnless battles, twisting dungeons, and countless secrets await you in the magical world of Astravia. 
 
-Lost within the turmoil of Astravia's past, you and your companions must find a way to unite its people before the Cataclysm brings about another age of ruin.
+As the wandering mystician Oliver, you and your companions must uncover the truth of your past... before the Cataclysm brings forth another age of ruin. 
 
 # Available On
 
 {% include platform_links.html game_data=game %}
 
-# Three-Part Saga
-**Please note:** Legends of Astravia will be delivered in three installments. The first chapter will release first as the base game. The second and final chapter will both release as DLC at a later date, but each one including the first will be a complete game experience with hours of content.
+# Two-Part Saga
+Legends of Astravia’s epic story will be delivered in two installments. The first half will release first as “Legends of Astravia”. The second half and conclusion to the story will be released at a later date, either as a full game or as DLC depending on its final length. Regardless, each installment will be a complete game experience and story arc with hours of content. 
 
 # Gallery
 {% include image_gallery.html gallery=site.data.galleries.loa-game-page %}
 
 # Features
-- **Dynamic timer-based battle system that encourages quick decision making.** The twist: you control the timer! No more waiting for bars to fill up or turns to pass.
+- **Turnless battles that encourage quick—but strategic—decision making.** In this fluid system without “turns”, you interact with enemy and ally actions in real time. 
 - **A varied cast of playable characters,** each with a unique combat style and abilities to help you arrange the perfect team.
 - **Vast, explorable overworld filled with dungeons, caves, and towns.** There are challenging puzzles to solve and treasures to find in every corner of Astravia.
 - **Avoidable enemy encounters.** Choose your own path instead of being at the mercy of unexpected, randomized battles.
 - **Modular skill system that allows you to exchange abilities between characters,** so you never feel restricted to a particular "build”.
-- **An engaging story supported by varied side-quests.** Alongside a fulfilling main quest, meet characters all over the world with their own side-quests and special rewards.
+- **An engaging story supported by varied side-quests.** Alongside a fulfilling main quest, meet characters all over the world with their own stories and special rewards.
 
 # Story
+Oliver is a mystician—those in Astravia who are gifted with a natural talent to cast magic. After waking up in Mordin Forest with nothing but his shirt and circlet, he was assailed by a group of corrupt knights and rescued by a swordsman from the local village. As he recovered, he became quickly accustomed to the villagers' simple lifestyle regardless of his unclear past. 
 
-### Chapter 1
-The world of Astravia is in an unstable peace; divided by unrest between *mysticians* and humans who fear their magic. Once seen as heroes, the passage of time eroded the mysticians' feats into myth, and anyone who shares their likeness in the present day must hide from the ruling country of Valica and its brutal knights.
+This calm did not last long, however, as a fated meeting with the enigmatic Azel and an encounter with other, villainous mysticians forced Oliver to realize that he is involved in something greater...and that he and Azel are somehow destined to cross paths. He sets off towards Anatas to learn more about his origins, meeting new companions—and enemies—along the way. 
 
-Thus, the magic-adept Oliver must tread with caution as he escapes the woods of a Valican territory. Left behind by the mystician Azel and at loss as to how he arrived there, the stakes are raised even higher when Oliver realizes he must pass through the capitol in order to find answers about his past.
-
-*Chapter 2 & 3's synopses will be revealed prior to their release.*
+However, for each step towards discovering the truth of his own past, Oliver gets further entangled in Astravia's dark and mysterious history... 
 
 <br>
 
