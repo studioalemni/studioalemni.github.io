@@ -19,7 +19,7 @@ New Demo 80% Done
 ===
 It's almost a bit surreal working on the revised demo. A lot really has changed, and it's fun to see how my process has become more optimized. The process for making cutscenes is more streamlined, with a clear process from writing the draft, integrating, and testing. And by applying the "layered cake" method that Fang taught me earlier in the year, things went even faster.
 
-![2]({{ image_basepath | append: "2.jpg" | relative_url }})
+[![2]({{ image_basepath | append: "2.jpg" | relative_url }})]({{ image_basepath | append: "2.jpg" | relative_url }})
 
 Beta testing will be very soon, there are just a few more mechanical issues I want to iron out. Be sure to keep an eye on the [Discord server]() if this is something that interests you!
 
@@ -39,7 +39,7 @@ As such, I removed most of this artwork from every single social media channel a
 
 **However**--it is not gone forever. In fact, I think these old screenshots, gifs and other snippets give a very important peek into Legends of Astravia's complicated development process.
 
-![Example1](/assets/loa/extra/Dev_Archive_1.png)
+[![Example1](/assets/loa/extra/Dev_Archive_1.png)](/assets/loa/extra/Dev_Archive_1.png)
 
 So, check out the Dev Archive on the website to take a little visual stroll through the game's development from 2017-2022, 5 long (_...long..._ ) years!: [Link](https://www.studioalemni.com/loa-dev-archive) 
 
@@ -47,11 +47,11 @@ Development Progress
 ===
 Since the demo is nearly completed, I think progress in January was pretty darn good! One of the more exciting things about the demo is just how much things have changed--for the better. The game honestly feels like, well, **a video game??** _(Crazy, right? I don't know!)_
 
-![1]({{ image_basepath | append: "1.jpg" | relative_url }})
+[![1]({{ image_basepath | append: "1.jpg" | relative_url }})]({{ image_basepath | append: "1.jpg" | relative_url }})
 
 The premise of the demo is largely the same as 2022, Oliver will have an encounter with the mysterious Azel and the two will traverse the Earth Leyline together. However, we have a new recontextualization with Mordin Village, very similar to the game's demo in 2019.
 
-![3]({{ image_basepath | append: "3.jpg" | relative_url }})
+[![3]({{ image_basepath | append: "3.jpg" | relative_url }})]({{ image_basepath | append: "3.jpg" | relative_url }})
 
 Oliver and Azel have already had a prior meeting at this time, and so their encounter in the temple is a **reunion** of sorts _(I hope the FF7 fans reading are extra excited by that word. I sure am!)_. 
 
@@ -61,23 +61,23 @@ In addition to some restructuring of the "paths" you'll traverse (need to keep v
 
 First, **Oliver's Dream**...
 
-![4]({{ image_basepath | append: "4.jpg" | relative_url }})
+[![4]({{ image_basepath | append: "4.jpg" | relative_url }})]({{ image_basepath | append: "4.jpg" | relative_url }})
 
 And secondly, **Mordin Village!**
 
-![5]({{ image_basepath | append: "5.jpg" | relative_url }})
+[![5]({{ image_basepath | append: "5.jpg" | relative_url }})]({{ image_basepath | append: "5.jpg" | relative_url }})
 
 Unfortunately, the town will be asleep, so there won't be many NPC interactions, but I feel it will still invoke some nostalgia, especially in those of you who played the demo all the way back in 2019.
 
-![6]({{ image_basepath | append: "6.jpg" | relative_url }})
+[![6]({{ image_basepath | append: "6.jpg" | relative_url }})]({{ image_basepath | append: "6.jpg" | relative_url }})
 
 New Characters
 ---
 The most exciting aspect of the demo is that it will feature several new characters who bring a very fresh and distinct tone to the game. I have to give Fang a lot of credit here, this was one of her writing suggestions that really made things come together. 
 
-![7]({{ image_basepath | append: "7.jpg" | relative_url }})
+[![7]({{ image_basepath | append: "7.jpg" | relative_url }})]({{ image_basepath | append: "7.jpg" | relative_url }})
 
-![8]({{ image_basepath | append: "8.jpg" | relative_url }})
+[![8]({{ image_basepath | append: "8.jpg" | relative_url }})]({{ image_basepath | append: "8.jpg" | relative_url }})
 
 I also had a lot of fun drawing their faces. The switch to my own art style really renewed my confidence in my abilities overall. I honestly can't wait to draw more.
 
