@@ -357,6 +357,13 @@
     margin-right: auto;
     padding: 10px 0;
   }
+
+  p > img:hover {
+    max-width: none;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    overflow-x: hidden;
+ }
 }
 
 .widget-container {
