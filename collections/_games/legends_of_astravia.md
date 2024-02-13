@@ -3,7 +3,7 @@ layout: game
 title: Legends of Astravia
 alt_title: ''
 permalink: /games/legends-of-astravia
-header_image: assets/loa/21-9_banner-Logo_smaller.jpg
+header_image: assets/loa/21-9_banner-Logo_RMN.png
 ---
 {% assign game = site.data.games.legends-of-astravia %}
 
@@ -21,22 +21,40 @@ Legends of Astravia’s epic story will be delivered in two installments. The fi
 # Gallery
 {% include image_gallery.html gallery=site.data.galleries.loa-game-page %}
 
-# Features
-- **Turnless battles that encourage quick—but strategic—decision making.** In this fluid system without “turns”, you interact with enemy and ally actions in real time. 
-- **A varied cast of playable characters,** each with a unique combat style and abilities to help you arrange the perfect team.
-- **Vast, explorable overworld filled with dungeons, caves, and towns.** There are challenging puzzles to solve and treasures to find in every corner of Astravia.
-- **Avoidable enemy encounters.** Choose your own path instead of being at the mercy of unexpected, randomized battles.
-- **Modular skill system that allows you to exchange abilities between characters,** so you never feel restricted to a particular "build”.
-- **An engaging story supported by varied side-quests.** Alongside a fulfilling main quest, meet characters all over the world with their own stories and special rewards.
+# About
+In this retro-style 2D RPG with modernized game mechanics, journey across Astravia as the wandering mystician Oliver and meet new companions, uncover secrets better left unknown, and stop a villainous trio’s plot to steal the powerful Astri and cause world destruction. 
+
+Influenced by 90s and early 2000s-era JRPGs like Golden Sun and Grandia, the game features a dynamic battle system and a world rich with exploration and puzzles. 
+
+![Dynamic Battles]({{ '/assets/loa/Description_Battle.png' | relative_url }})
+
+A fresh spin on "Active Time Battle" (ATB), Legends of Astravia's turnless battle system encourages quick—but strategic—decision making. In this fluid system without “turns”, interact with enemy and ally actions in real time and feel the excitement of outracing your opponents with powerful magic and abilities. 
+
+![Engaging Exploration]({{ '/assets/loa/Description_Explore.png' | relative_url }})
+
+Vast, explorable overworld designed with care. Intricate dungeons filled with puzzles and traps are contrasted with lively towns and their welcoming NPCs and side-quests. And while the main story's obstacles are balanced and fair, there are plenty of optional areas with difficult and rewarding challenges to discover. 
+
+![Charming Characters]({{ '/assets/loa/Description_Characters.png' | relative_url }})
+
+A varied cast where each character's unique personality and traits shine through. In this character-driven story, scenes with dialogue are written to make you feel like you're in the company of your companions as they react to the changing world around them. 
+
+## Features
+- Approachable RPG with 10-20 hours of genuine, unpadded content. 
+- Retro 16-bit graphics with a modernized interface and gameplay—all the nostalgia without the clunky mechanics. 
+- Explorable overworld that features twisting dungeons, rewarding puzzles, treasure-filled caves and more. 
+- "Turnless" battles where you feel the constant rhythm of combat as you choose your characters' actions. 
+- A diverse cast of charming characters each with their own personalities and abilities. 
+- Essence: A modular skill system that allows you to exchange abilities between characters and grow without the burden of skill trees or assigning stat points. 
+- Avoidable, on-map enemy encounters and grid-less 8-directional movement. 
+- Various side-quests, each with meaning and purpose that complement and build on the world's lore. 
+- Accessibility options to tune your experience, such as battle difficulty and speed modulation, visual adjustments, and control rebinding. 
 
 # Story
-Oliver is a mystician—those in Astravia who are gifted with a natural talent to cast magic. After waking up in Mordin Forest with nothing but his shirt and circlet, he was assailed by a group of corrupt knights and rescued by a swordsman from the local village. As he recovered, he became quickly accustomed to the villagers' simple lifestyle regardless of his unclear past. 
+Oliver is a *mystician*—those in Astravia who are gifted with a natural talent to cast magic. Awakening deep in Mordin Forest with nothing but his shirt and circlet, Oliver finds himself at a loss as to how he ended up there. To make matters worse, the corrupt knights of the area seem all but welcoming towards mysticians. 
 
-This calm did not last long, however, as a fated meeting with the enigmatic Azel and an encounter with other, villainous mysticians forced Oliver to realize that he is involved in something greater...and that he and Azel are somehow destined to cross paths. He sets off towards Anatas to learn more about his origins, meeting new companions—and enemies—along the way. 
+After a swift rescue by a kindly swordsman, he takes refuge along the outskirts of Mordin Village. There, questions about his past and a fated meeting with the enigmatic Azel leads Oliver on a quest across the world to recover his memory...all while the “Astri Hunters” plan to reawaken the Great Cataclysm for their own gain. 
 
-However, for each step towards discovering the truth of his own past, Oliver gets further entangled in Astravia's dark and mysterious history... 
-
-<br>
+Journey as a wandering mystician and meet new companions, uncover secrets better left unknown, and stop a villainous trio’s plot to steal the powerful Astri and cause world destruction...for the fate of Astravia! 
 
 ---
 
@@ -50,10 +68,6 @@ However, for each step towards discovering the truth of his own past, Oliver get
 |:---:|:---:|:---:|
 | {{ game.developer }} | {{ game.languages | join: ",&nbsp;&nbsp;" }} | {{ game.rating }} |
 
-<br>
-
 ---
-
-<br>
 
 *[Click here](/games/loa/credits) to view the game's credits, including collaborators and assets.*

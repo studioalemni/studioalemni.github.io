@@ -1,5 +1,5 @@
 name: Legends of Astravia
-description: Traverse a world of magic and confront the secrets of your past in this exploration and story driven RPG.
+description: Turnless battles, twisting dungeons, and countless secrets await you in the magical world of Astravia.
 release_date: TBD
 languages:
   - English
@@ -16,7 +16,7 @@ links:
   steam: https://store.steampowered.com/app/1233680/Legends_of_Astravia/
   itch: https://studioalemni.itch.io/legends-of-astravia
   epic: 
-box_art: assets/loa/box_art.png
+box_art: assets/loa/box_art.jpg
 featured_blocks:
   - title: Manipulate time
     image: /assets/loa/MainPromo1.gif
@@ -30,6 +30,3 @@ featured_blocks:
     image: /assets/loa/MainPromo3.gif
     text: >-
       with diverse characters and interchangeable abilities.
-
-
-
