@@ -23,10 +23,6 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <p class="footer-center">© {{ "now" | date: "%Y" }} Studio Alemni</p>
-      </div>
-
-      <div class="footer-col footer-col-3">
         <!-- <small>{{- site.description | escape -}}</small> -->
         <div class="footer-list">
           {% for link in site.data.footer_links %}
@@ -35,7 +31,6 @@
         </div>
       </div>
     </div>
-
+    <p style="font-size: 0.7em; line-height: auto;">© {{ "now" | date: "%Y" }} Studio&nbsp;Alemni. Astravia® is a registered trademark of Studio&nbsp;Alemni&nbsp;LLC.{% if page.title == 'Legends of Astravia' or page.title == 'FAQs' %} Golden Sun ©2001 Camelot, Grandia ©1997 Game Arts. These titles are only mentioned as a point of reference, and does not constitute endorsement from the developers or publishers.{% endif %}</p>
   </div>
-
 </footer>

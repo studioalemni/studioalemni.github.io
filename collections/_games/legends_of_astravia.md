@@ -24,7 +24,7 @@ Legends of Astravia’s epic story will be delivered in two installments. The fi
 # About
 In this retro-style 2D RPG with modernized game mechanics, journey across Astravia as the wandering mystician Oliver and meet new companions, uncover secrets better left unknown, and stop a villainous trio’s plot to steal the powerful Astri and cause world destruction. 
 
-Influenced by 90s and early 2000s-era JRPGs like Golden Sun and Grandia, the game features a dynamic battle system and a world rich with exploration and puzzles. 
+Influenced by 90s and early 2000s-era JRPGs like *Golden Sun* and *Grandia*, the game features a dynamic battle system and a world rich with exploration and puzzles. 
 
 ![Dynamic Battles]({{ '/assets/loa/Description_Battle.png' | relative_url }})
 
