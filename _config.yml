@@ -27,6 +27,7 @@ url: https://studioalemni.github.io # the base hostname & protocol for your site
 domain: studiooalemni.github.io
 twitter_username: studioalemni
 youtube_username: "@studioalemni"
+bluesky_username: astraviagame.bsky.social
 
 collections_dir: collections
 collections:
