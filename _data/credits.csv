@@ -1,5 +1,5 @@
 column1,column2
-H2!Studio Alemni, 
+H2!Development Team, 
 Creator,Jaiden
 Lead Developer, 
 Programmer, 
@@ -10,16 +10,16 @@ Writer,
 Composer, 
 Sound Designer, 
 Artist, 
-H2!Collaboration, 
+H2!Additional Collaborators, 
 Programming,KK20
  , 
-Programming Consultation,KK20
- ,Boros “Blizzard” Mikic
- ,Ryexander
+Programming Consultation,Boros “Blizzard” Mikic
+ ,KK20
  , 
-Design Consultation,KoroknRoll
+Design Consultation,codapill
+ ,KK20
+ ,KoroknRoll  
  ,mf_WillBlack(Jeff)
- ,Archeia
  , 
 Sprite Artwork,Burt
  ,Noam Goldfarb
@@ -28,25 +28,25 @@ Character Artwork,Ryuuen Tanaka
  , 
 Promotional Artwork,Ryuuen Tanaka
  , 
-Writing / Editing,KoroknRoll
- ,tort
+Writing and Editing,june
+ ,KoroknRoll
  ,mf_WillBlack(Jeff)
- ,june
+ ,tort
  , 
 Music,DivingInSpace
  , 
-Quality Assurance,tort
-,codapill
-,KK20
-,Koroknroll
-,mf_WillBlack(Jeff)
+Quality Assurance,codapill
+ ,KK20
+ ,Koroknroll
+ ,mf_WillBlack(Jeff)
+ ,tort
  , 
 H2!Localization - Japanese, 
 Translation,obatatsu(S.N.)
  , 
 Quality Assurance,obatatsu(S.N.)
  , 
-H2!Contributors, 
+H2!Donations, 
 Outstanding Contributor,Dice
  ,OzzyTheOne
  ,Kayne
