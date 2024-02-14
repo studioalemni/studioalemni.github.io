@@ -15,7 +15,7 @@ You can read more about us [here](https://www.studioalemni.com/about).
 
 #### Who is “Jaiden”?
 
-Hello there, that’s me! I am the owner of Studio Alemni and developer for Legends of Astravia. I write all of the articles and social media posts for the Legends of Astravia, so pardon the occasional switching of “we” and “I”. 
+Hello there, that’s me! I am the owner of Studio Alemni and creator of Legends of Astravia. I write all of the articles and social media posts for the Legends of Astravia, so pardon the occasional switching of “we” and “I”. 
 
 #### Can I help with Programming / Music / Graphics / Etc.?
 
