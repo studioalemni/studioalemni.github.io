@@ -27,7 +27,7 @@ Developed using RPG Maker XP
                 <h3>{{ row["column1"] | split: "!" | last }}</h3>
             </div>
         {% else %}
-            <div class="credits-row{% if forloop.index > 148 %} contributors{% endif %}">
+            <div class="credits-row{% if forloop.index > 146 %} contributors{% endif %}">
                 <div class="credits-col-1">
                     {{ row["column1"] }}
                 </div>
