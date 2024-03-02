@@ -9,5 +9,5 @@
   {%- for mst in site.mastodon -%}{%- if mst.username and mst.instance -%}<div class="list-item"><a href="https://{{ mst.instance| cgi_escape | escape}}/@{{mst.username}}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#mastodon' | relative_url }}"></use></svg></a></div>{%- endif -%}{%- endfor -%}
   {%- if site.twitter_username -%}<div class="list-item"><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></div>{%- endif -%}
   {%- if site.youtube_username -%}<div class="list-item"><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg></a></div>{%- endif -%}
-  {%- if site.rss -%}<div class="list-item"><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> </a></div>{%- endif -%}
+  <div class="list-item"><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> </a></div>
 </div>
