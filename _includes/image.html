@@ -1,0 +1,3 @@
+{% assign image_parts = include.image | split: "." %}
+{% assign alt_text = image_parts[0] %}
+<img class="post-image" src="{{ site.content_url }}{{ include.page.image_basepath }}{{ include.image }}" alt="{{ alt_text }}">

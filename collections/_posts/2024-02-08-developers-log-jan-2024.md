@@ -6,8 +6,8 @@ tags: devlog featured
 short_title: "Devlog - Jan 2024"
 author: Jaiden
 permalink: /news/developers-log-jan-2024
+image_basepath: "/images/news/2024/jan/"
 ---
-{% assign image_basepath = "/assets/news/2024/jan/" %}
 
 Hello everyone,
 
@@ -19,7 +19,7 @@ New Demo 80% Done
 ===
 It's almost a bit surreal working on the revised demo. A lot really has changed, and it's fun to see how my process has become more optimized. The process for making cutscenes is more streamlined, with a clear process from writing the draft, integrating, and testing. And by applying the "layered cake" method that Fang taught me earlier in the year, things went even faster.
 
-![2]({{ image_basepath | append: "2.jpg" | relative_url }})
+{% include image.html page=page image='2.jpg' %}
 
 Beta testing will be very soon, there are just a few more mechanical issues I want to iron out. Be sure to keep an eye on the [Discord server]() if this is something that interests you!
 
@@ -47,11 +47,11 @@ Development Progress
 ===
 Since the demo is nearly completed, I think progress in January was pretty darn good! One of the more exciting things about the demo is just how much things have changed--for the better. The game honestly feels like, well, **a video game??** _(Crazy, right? I don't know!)_
 
-![1]({{ image_basepath | append: "1.jpg" | relative_url }})
+{% include image.html page=page image='1.jpg' %}
 
 The premise of the demo is largely the same as 2022, Oliver will have an encounter with the mysterious Azel and the two will traverse the Earth Leyline together. However, we have a new recontextualization with Mordin Village, very similar to the game's demo in 2019.
 
-![3]({{ image_basepath | append: "3.jpg" | relative_url }})
+{% include image.html page=page image='3.jpg' %}
 
 Oliver and Azel have already had a prior meeting at this time, and so their encounter in the temple is a **reunion** of sorts _(I hope the FF7 fans reading are extra excited by that word. I sure am!)_. 
 
@@ -61,31 +61,27 @@ In addition to some restructuring of the "paths" you'll traverse (need to keep v
 
 First, **Oliver's Dream**...
 
-![4]({{ image_basepath | append: "4.jpg" | relative_url }})
+{% include image.html page=page image='4.jpg' %}
 
 And secondly, **Mordin Village!**
 
-![5]({{ image_basepath | append: "5.jpg" | relative_url }})
+{% include image.html page=page image='5.jpg' %}
 
 Unfortunately, the town will be asleep, so there won't be many NPC interactions, but I feel it will still invoke some nostalgia, especially in those of you who played the demo all the way back in 2019.
 
-![6]({{ image_basepath | append: "6.jpg" | relative_url }})
+{% include image.html page=page image='6.jpg' %}
 
 New Characters
 ---
 The most exciting aspect of the demo is that it will feature several new characters who bring a very fresh and distinct tone to the game. I have to give Fang a lot of credit here, this was one of her writing suggestions that really made things come together. 
 
-![7]({{ image_basepath | append: "7.jpg" | relative_url }})
+{% include image.html page=page image='7.jpg' %}
 
-![8]({{ image_basepath | append: "8.jpg" | relative_url }})
+{% include image.html page=page image='8.jpg' %}
 
 I also had a lot of fun drawing their faces. The switch to my own art style really renewed my confidence in my abilities overall. I honestly can't wait to draw more.
 
-<br>
-
 ---
-
-<br>
 
 That's all for now. I look forward to sharing more progress next month--there are some even more exciting changes coming up!
 

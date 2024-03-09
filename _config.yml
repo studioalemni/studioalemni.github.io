@@ -29,6 +29,10 @@ twitter_username: studioalemni
 youtube_username: "@studioalemni"
 bluesky_username: astraviagame.bsky.social
 
+# Custom asset url. Currently set to a subdomain pointing at a cloudflare CDN,
+# serving from a B2 bucket.
+content_url: https://assets.studioalemni.com/file/sa-web-assets
+
 collections_dir: collections
 collections:
   games:
@@ -43,6 +47,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.

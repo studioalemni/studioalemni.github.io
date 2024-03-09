@@ -369,14 +369,14 @@
     }
   }
 
-  p > img {
+  img.post-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 10px 0;
   }
 
-  p > img:hover {
+  img.post-image:hover {
     max-width: 100vw;
     margin-left: 50%;
     transform: translateX(-50%);
