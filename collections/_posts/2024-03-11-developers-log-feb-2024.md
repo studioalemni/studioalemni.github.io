@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developer's Log - February 2024"
-date: '2024-03-11'
+date: "2024-03-11"
 tags: devlog featured
 short_title: "Devlog - Feb 2024"
 author: Jaiden
