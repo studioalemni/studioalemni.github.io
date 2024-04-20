@@ -7,7 +7,7 @@
     <div class="hero-image">
         {% if page.hero.logo %}
             <div class="hero-logo">
-                <img src="{{ page.hero.logo | relative_url }}"/>
+                <a href="{{ page.hero.button_link }}"><img src="{{ page.hero.logo | relative_url }}"/></a>
             </div>
         {% endif %}
     </div>
