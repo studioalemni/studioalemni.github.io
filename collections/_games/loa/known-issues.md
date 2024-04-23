@@ -6,9 +6,8 @@ redirect_from:
 ---
 Listed on this page are the bugs and issues found in the current version of [Legends of Astravia]({{ '/games/legends-of-astravia' | relative_url }}) that we intend to address in a later release version or patch.
 
-Please refer to this list before reporting a bug, either on [Steam](https://steamcommunity.com/app/1233680/discussions/1/) or in the [Discord server](https://discord.com/invite/astravia). 
-Additionally, if you are running a version older than the one listed on this page (visible on the bottom-right of the title screen), please ensure you download the most recent update before reporting a bug or issue.
-
+Please refer to this list before [reporting a bug]({{ '/games/loa/bug-report' | relative_url }}). 
+Additionally, please make sure your game is up to date with the game version listed below. This is visible on the bottom-right of the title screen.
 Current game version: **DEMO**
 
 List last updated: **4/12/24**

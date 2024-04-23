@@ -20,4 +20,4 @@ We are unable to provide dedicated support in Japanese, though we will do our be
 
 For a list of known issues and bugs, [click here]({{ '/games/loa/known-issues' | relative_url }}).
 
-If you'd just like to report an error that you encountered when playing the game, please use [this form]({{ '/games/loa/bug-report' | relative_url }}).
+:mag: **Please use [this form]({{ '/games/loa/bug-report' | relative_url }}) to report an issue that you encountered when playing the game.**
