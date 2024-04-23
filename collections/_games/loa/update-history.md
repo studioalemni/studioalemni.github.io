@@ -7,7 +7,7 @@ redirect_from:
 
 # Demo v0.6.0
 
-- A and B button prompt graphics are no longer swapped on Nintendo cotnrollers
+- A and B button prompt graphics are no longer swapped on Nintendo controllers
 - Added an option to provide feedback from within the options menu
 - Added an option to submit a bug report if the game crashes
 - Version update notice feature and better checking
