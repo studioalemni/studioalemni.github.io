@@ -23,12 +23,12 @@ Studio Alemni is not looking to expand its development team at this time.
 
 #### Are you looking for a Publisher? 
 
-While we are not technically seeking out a publishing deal at this time, relationships that provide funding, marketing, and localization opportunities are always welcome. Feel free to [contact us](https://studioalemni.com/contact) if you’d like to make an offer. 
+Relationships that provide funding, marketing, and localization opportunities are always welcome. Feel free to [contact us](https://studioalemni.com/contact).
 
 ## _Legends of Astravia_ Related
 #### What is the game about?
 
-It is a retro-style 2D RPG with modernized game mechanics, where you journey across Astravia as the wandering mystician Oliver and meet new companions, uncover secrets better left unknown, and stop a villainous trio’s plot to steal the powerful Astri and cause world destruction. Influenced by 90s and early 2000s-era JRPGs like *Golden Sun* and *Grandia*, the game features a dynamic battle system and a world rich with exploration and puzzles.
+Legends of Astravia is a charming retro RPG where you journey across a world of magic to reconstruct the fragments of your past. Influenced by 90s and early 2000s-era JRPGs, the game features hybrid time-based battles and an explorable world filled with twisting dungeons and countless secrets. 
 
 You’ll find more information on the [detailed game page]({{ '/games/legends-of-astravia' | relative_url }}).
 
@@ -44,17 +44,21 @@ Though, please keep in mind **this demo is now a little outdated**--it was relea
 
 Yes! Check it out [here]({{ loa.links.steam | relative_url }}).
 
-#### When will the game be done?
-
-The projected release is TBD.
-
 #### How much will it cost?
 
 The game’s price is TBD.
 
+#### When will the game be done?
+
+The projected release for “Part 1” is Q1 2025. “Part 2” is TBD. 
+
 #### Is the game episodic? 
 
 The game will be released in exactly two parts, either as two separate games (think *Golden Sun* & *Golden Sun: The Lost Age*), or with the second half as DLC if it ends up being too short to justify an entire game release. This is because the world and scope of the story is far too large to fit in a single game, especially for a tiny indie developer! We promise that each installment will be a full game experience and will not feel incomplete or unfinished. 
+
+#### Why not release the whole game at once instead of in two parts? 
+
+Due to restrictions in both development time and budget, it is not feasible to release a game at this scale all at once without taking a very long time. Splitting the game into two parts allows folks to enjoy the game much sooner. 
 
 #### Can I help beta test the game?
 
