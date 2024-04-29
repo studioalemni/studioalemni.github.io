@@ -5,6 +5,17 @@ redirect_from:
     - /changelog
 ---
 
+# Demo v0.6.1
+- Reduced the size of some state effects and animations
+- Made the "Fork" essence effect clearer
+- Fixed status effect text not displaying in Japanese
+- Fixed a bug where you could exit the dungeon early
+- Fixed inability to escape from certain battles 
+- Fixed "To Title" on Game Over screen
+- Fixed misc collision and tiling issues
+- Fixed missing "!" from some explorable objects
+
+
 # Demo v0.6.0
 
 - A and B button prompt graphics are no longer swapped on Nintendo controllers
