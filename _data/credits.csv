@@ -1,52 +1,78 @@
 column1,column2
 H2!Development Team, 
-Creator,Jaiden
-Lead Developer, 
-Programmer, 
-Artist, 
+H3!Current Members,
+Creator & Lead Developer,Jaiden Alemni
+Art & Design,
+Programming,
+Writing,
+Marketing,
  , 
+H3!Previous Members, 
 Developer,Fangsoft
-Writer, 
-Composer, 
-Sound Designer, 
-Artist, 
-H2!Additional Collaborators, 
+Writing,
+Composing & Sound Design,
+2D & 3D Art,
+Production Support,
+ , 
+H2!Collaborators,
+H3!Current,
+Creative Support,tort
+Consultation,
+ ,
 Programming,KK20
- , 
-Programming Consultation,Boros “Blizzard” Mikic
- ,KK20
- , 
-Design Consultation,codapill
- ,KK20
- ,KoroknRoll  
- ,mf_WillBlack(Jeff)
- , 
-Sprite Artwork,Burt
- ,Noam Goldfarb
- , 
-Character Artwork,Ryuuen Tanaka
- , 
-Promotional Artwork,Ryuuen Tanaka
- , 
-Writing and Editing,june
- ,KoroknRoll
- ,mf_WillBlack(Jeff)
- ,tort
- , 
-Music,DivingInSpace
- , 
+Creative Support,
+Consultation,
+ ,
+Pixel Art,Burt
+ ,
 Quality Assurance,codapill
- ,DeDeSans
- ,KK20
- ,Koroknroll
- ,mf_WillBlack(Jeff)
- ,tort
+Creative Support,
+Consultation,
+ ,
+Character Artwork,Ryuuen Tanaka
+Promotional Artwork,
+ ,
+Programming,Zorua
+ ,
+Quality Assurance,Emule
+ ,
+H3!Previous, 
+Writing,Koroknroll
+Creative Support,
+ ,
+Composing,DivingInSpace
+ ,
+Pixel Art,Slime
  , 
-H2!Localization - Japanese, 
+H2!Localization,
+H3!Japanese, 
 Translation,obatatsu(S.N.)
  , 
-Quality Assurance,obatatsu(S.N.)
+Testing & QA,obatatsu(S.N.)
  , 
+H2!Additional Support, 
+Creative Support,Eblo
+ ,Shweep
+ , 
+Beta Testing,Burt
+ ,codapill
+ ,DeDeSans
+ ,Eblo
+ ,Emule
+ ,Fangsoft
+ ,june
+ ,KoroknRoll
+ ,Mari
+ ,orochii
+ ,Shweep
+ ,toiosh
+ ,tort
+ , 
+Special Thanks,Kyle
+,Mari
+,Rae
+,RPGZexion
+ ,
 H2!Donations, 
 Outstanding Contributor,Dice
  ,OzzyTheOne
@@ -68,12 +94,11 @@ Early Contributor,KainRezo072
  ,Steve R.
  ,Jazz Stewart
  , 
-H2!Resources and Assets, 
-H3!Scripts & Plugins, 
+H2!Assets: Scripts & Plugins, 
 MKXP-Z Engine,Amaryllis Kulla (“Ancurio”)
- ,Struma
- ,Splendide Imaginarius
+ ,zorua
 ...And Its Many Contributors,WaywardHeart
+,Splendide Imaginarius
 ,hat_kid
 ,Eblo
 ,rainefall
@@ -105,10 +130,9 @@ Active Time Battle System,Paradog
 RGSS Extensions, 
  , 
 Screenshake Methods,TheoAllen
+ ,(Rest in peace)
  , 
 SBS Tankantai XP Port,Victor Sant
- , 
-Enemy AI,Yanfly
  , 
 Pixel Movement,f0tz!baerchen 
  ,arevulopapo
@@ -117,14 +141,15 @@ Pixel Movement,f0tz!baerchen
  ,Caldaron
  ,Abt Ploutôn 
  , 
-H3!Artwork & Graphics, 
-Tileset Sprites,REFMAP
+H2!Assets: Artwork & Graphics, 
+Tileset Sprites,MACK
  ,Frogge
  , 
-Character Sprites,REFMAP
+Character Sprites,MACK
 ,Enterbrain
  , 
 Battler Sprites,Enterbrain
+ ,Vibrato
  , 
 Icon Sprites,CazWolf
 ,Whitecat
@@ -136,7 +161,7 @@ Icon Sprites,CazWolf
 Effects Animations,Dreams Circle
 ,JosephSeraph
  , 
-H3!Music & Sound, 
+H2!Assets: Music & Sound, 
 Background Music,Enterbrain
 ,PeriTune
 ,Aaron Krogh
@@ -145,48 +170,73 @@ Sound Effects,Enterbrain
 ,Tao & Sound
 ,WOW Sound SG
  , 
-H2!Beta Testers, 
-8bitbartabas,KoroknRoll
-Actuallyatortillachip,Kraaler
-AquariusKamui,Kyuukon
-Blizzard,LavaSlug
-Charlottezxz,Lunesis
-CodaPill,mf_WillBlack(Jeff)
-DedeSans,NeoSoulGamer
-DJSlimey,Nikorasu
-DriftwoodGaming,OzzytheOne
-Hanamaru,Reillo9
-Fangsoft,ronaldbabe
-HawkZombie,RunicDice
-Hyblitz,Sawyer Friend
-IndrahLadyPotato,SergeSkunk
-Jaguarnick,Skyforger
-Jazz Stewert,Somber
-JkWeath,Trev
-Johnny D.,Triplemoon
-KainRezo072,u/TheMoonIsFurious
-Kayne,Zefir
-KK20,Zexion
- , 
-H3!Special Thanks, 
-RPGZexion,Benny (“Cash”)
-Gameus,Archeia
-SoulShaker3,Sorata der Schilderich
-LavenderSiren,Blizzard
-TrueCynder,Ryexander
-DivingInSpace,HawkZombie
-TheRealTron,Studio Blue
-d757gaming,Mari
-Clockwork Prince,Riggy2k3
-Yukimkun,mf_WillBlack(Jeff)
-Caz,Eblo
+H2!Additional Support (2018-2022),
+Creative Support,Archeia
+,LavenderSiren
+,Verris Ephemera
+,Clockwork Prince
+,Yukimkun
+,Caz
+,mf_WillBlack(Jeff)
+,KoroknRoll
  ,
+Programming Support,Gameus
+,SoulShaker3
+,Blizzard
+,Ryexander
  ,
+Video Feedback,DriftwoodGaming
+,TheRealTron
+,d757gaming
+,Benny (“Cash”)
+,Sorata der Schilderich
+,HawkZombie
+,Studio Blue
+,Riggy2k3
+,Johnny D.
+,Jazz Stewart
  ,
- ,
- ,
- ,
- ,
- ,
- ,
+Beta Testing,8bitbartabas
+,AquariusKamui
+,Blizzard
+,Burt
+,Charlottezxz
+,codapill
+,DeDeSans
+,DJSlimey
+,Hanamaru
+,Emule
+,Fangsoft
+,HawkZombie
+,Hyblitz
+,IndrahLadyPotato
+,Jaguarnick
+,Jazz Stewert
+,JkWeath
+,Johnny D.
+,KainRezo072
+,Kayne
+,KK20
+,KoroknRoll
+,Kraaler
+,Kyuukon
+,LavaSlug
+,Lunesis
+,mf_WillBlack(Jeff)
+,NeoSoulGamer
+,Nikorasu
+,OzzytheOne
+,Reillo9
+,ronaldbabe
+,RunicDice
+,Sawyer Friend
+,SergeSkunk
+,Skyforger
+,Somber
+,tort
+,Trev
+,Triplemoon
+,u/TheMoonIsFurious
+,Zefir
+,RPGZexion
  ,

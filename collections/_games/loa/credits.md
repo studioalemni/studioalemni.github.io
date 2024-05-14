@@ -7,7 +7,7 @@ redirect_from:
 ---
 <style> h1 { text-align: center !important; }</style>
 
-For **Legends of Astravia** Chapter 1
+For **Legends of Astravia**
 
 © Studio Alemni LLC 2017-{{ "now" | date: "%Y" }}
 
@@ -27,7 +27,7 @@ Developed using RPG Maker XP
                 <h3>{{ row["column1"] | split: "!" | last }}</h3>
             </div>
         {% else %}
-            <div class="credits-row{% if forloop.index > 146 %} contributors{% endif %}">
+            <div class="credits-row">
                 <div class="credits-col-1">
                     {{ row["column1"] }}
                 </div>
