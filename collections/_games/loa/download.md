@@ -4,13 +4,12 @@ title: Legends of Astravia Download
 redirect_from:
     - /download
 ---
-The free demo to Legends of Astravia has been temporarily discontinued because it is no longer an accurate reflection of the game. 
-
-Stay tuned for the updated version, which will be made available again this summer!
-
+The free demo to Legends of Astravia launches May 30th on Steam!
 
 {% include steam-widget.html game_handle='legends-of-astravia-demo' %}
 
 <br>
+
+The standalone version will be made available on itch.io sometime after Steam's Next Fest in June:
 
 {% include itch-widget.html game_handle='legends-of-astravia-demo' %}

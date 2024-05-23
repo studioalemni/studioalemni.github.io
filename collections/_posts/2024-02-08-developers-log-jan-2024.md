@@ -21,7 +21,7 @@ It's almost a bit surreal working on the revised demo. A lot really has changed,
 
 {% include image.html page=page image='2.jpg' %}
 
-Beta testing will be very soon, there are just a few more mechanical issues I want to iron out. Be sure to keep an eye on the [Discord server]() if this is something that interests you!
+Beta testing will be very soon, there are just a few more mechanical issues I want to iron out. Be sure to keep an eye on the [Discord server](https://www.discord.com/invite/astravia) if this is something that interests you!
 
 Getting Ready for (Next) NextFest
 ===
