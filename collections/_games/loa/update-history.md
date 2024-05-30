@@ -5,5 +5,5 @@ redirect_from:
     - /changelog
 ---
 
-# Demo v0.6.5
+# Demo v0.6.4
 - Initial Public Demo Release
