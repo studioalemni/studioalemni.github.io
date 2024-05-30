@@ -2,7 +2,7 @@
 layout: post
 title: "Demo Launching May 30th!"
 date: "2024-05-23"
-tags: announcement featured
+tags: announcement
 short_title: "Demo Launching May 30th!"
 author: Jaiden
 permalink: /news/demo-coming-soon
