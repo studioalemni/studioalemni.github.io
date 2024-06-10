@@ -16,7 +16,7 @@ List last updated: **6/6/24**
 # All Platforms
 
 - “Pause” in battle doesn’t work when an animation is displaying
-- Battle cannot be sped up while defending
+- Battle cannot be sped up while defending when using a controller
 - In rare cases, some enemies may be targetable with items
 - The camera can sometimes move jarringly and "snap" when moving between areas and in battle
 - Enemies that die to burn will display a death animation twice
