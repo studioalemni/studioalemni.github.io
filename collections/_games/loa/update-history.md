@@ -5,6 +5,9 @@ redirect_from:
     - /changelog
 ---
 
+# Demo v0.6.7
+- Ensured "Pause" and "Faster" prompts display when committed in battle
+
 # Demo v0.6.6
 - Adjusted battle speed so defaults are a little slower
 - Made "Slime" enemy a little more aggressive
