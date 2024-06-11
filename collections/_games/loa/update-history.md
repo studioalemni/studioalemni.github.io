@@ -5,6 +5,9 @@ redirect_from:
     - /changelog
 ---
 
+# Demo v0.6.8
+- Reverted battle speed change from 0.6.6--base speed is a little faster
+
 # Demo v0.6.7
 - Ensured "Pause" and "Faster" prompts display when committed in battle
 
