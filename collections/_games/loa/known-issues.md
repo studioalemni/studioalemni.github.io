@@ -16,17 +16,19 @@ List last updated: **6/6/24**
 # All Platforms
 
 - “Pause” in battle doesn’t work when an animation is displaying
-- Battle cannot be sped up while defending when using a controller
+- Can't defend + speed up battle when using an Xbox controller 
 - In rare cases, some enemies may be targetable with items
 - The camera can sometimes move jarringly and "snap" when moving between areas and in battle
 - Enemies that die to burn will display a death animation twice
 - The game needs to be relaunched to register an audio device change
+- When using "Game Capture" in OBS, the game will appear vertically mirrored and needs to be flipped
 
 # Windows Only
 
 - Rebinding controls with the F1 menu will not update the icon prompts in messages and menus.
 - Rebinding only works for keyboard and will not work for some controllers; it is advised to use the Steam controller interface to rebind controller buttons instead.
 - Certain hardware configurations may result in performance issues on certain maps
+- Certain hardware configurations may result in a black screen. To fix it, disable the Steam Overlay.
 - Some aggressive antivirus software, such as Avast, may declare the game executable as "suspicious" and require a scan before launching. This is a false positive, and likely due to the lack of official signing (an expensive process). The game's code is not a secret and can be viewed [here](https://github.com/JaidenAlemni/mkxp-z).
 
 # macOS Only
