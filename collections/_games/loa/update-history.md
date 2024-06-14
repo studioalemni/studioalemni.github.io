@@ -5,6 +5,9 @@ redirect_from:
     - /changelog
 ---
 
+# Demo v0.6.9
+- Fixed a softlock when entering Mordin Village from the Swamp
+
 # Demo v0.6.8
 - Reverted battle speed change from 0.6.6--base speed is a little faster
 
