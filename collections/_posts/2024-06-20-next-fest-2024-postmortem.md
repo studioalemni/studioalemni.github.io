@@ -13,7 +13,19 @@ image_basepath: "/images/news/2024/jun/"
 
 This article is not advice and I highly suggest you take everything I say with a grain of salt and do your own research if you are planning to launch a game demo for Steam Next Fest.
 
-With all that out of the way... let's get into my process preparing Legends of Astravia's demo for Next Fest as a solo developer with limited experience and resources. 
+Intro
+===
+As creatives, we're all bound to feel some bias towards what we're making. When you spend a really long time with your project, and stay within a bubble of validation, you can sometimes end up thinking what you're making is nothing short of the best thing ever. Maybe you think it will be your ticket to your dream career, or your big break, or a commercial success, or loved by a bunch of people, or your chance at [anything].
+
+I actually don't think this is something to be ashamed of or feel guilty for. If you don't love your work, then why are you making it? However, this bias can eventually lead to having unrealistic expectations, egotistical feelings, or bitterness towards other people's work. These things aren't great. But still, guilt and shame is not productive, and I think it's also a somewhat natural path based on the difficult system that we are creating in.
+
+Our love for our work can lead us to become blind to reality. It turns out, the thing you're making is likely not the best thing ever, and it is very unlikely to be a commercial success. We have to constantly check in with ourselves: if in the end your work does not meet any of your goals or expectations, do you still want to make it? This answer is different for everyone, and can vastly change based on the circumstances in which the work is being created. 
+
+I've had a long time with my project and a lot of really supportive people encouraging me, and so this bias has been challenging to navigate. I went into Steam Next Fest with a specific goal that I set based on this bias, and got a little taste of the reality that many other developers will face--my game just wasn't that big of a deal, and I didn't receive the response I was expecting.
+
+So my hope is that this article serves as solace to other developers who have experienced these things, and makes it a little easier for them to set expectations and find the balance between loving your work and remaining realistic.
+
+With all that out of the way... let's get into my process preparing Legends of Astravia's demo for Next Fest as a solo developer with limited experience and high expectations. 
 
 What is Steam Next Fest?
 ===
