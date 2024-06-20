@@ -9,11 +9,11 @@ permalink: /news/next-fest-2024-postmortem
 image_basepath: "/images/news/2024/jun/"
 ---
 
-:warning: **WARNING:** This is extremely long and wordy, and a little bit raw. I'm sharing this article to be transparent and to provide other developers (and I guess players, if they're interested) a direct look into my process and thoughts during the demo launch and Steam Next Fest.
+:warning: **WARNING:** This is extremely long and wordy, and a little bit raw. I'm sharing this article to be transparent and to provide other developers (and players, if they're interested) a direct look into my process and thoughts during the demo launch and Steam Next Fest.
 
 This article is not advice and I highly suggest you take everything I say with a grain of salt and do your own research if you are planning to launch a game demo for Steam Next Fest.
 
-Intro
+Preface
 ===
 As creatives, we're all bound to feel some bias towards what we're making. When you spend a really long time with your project, and stay within a bubble of validation, you can sometimes end up thinking what you're making is nothing short of the best thing ever. Maybe you think it will be your ticket to your dream career, or your big break, or a commercial success, or loved by a bunch of people, or your chance at [anything].
 
