@@ -5,6 +5,12 @@ redirect_from:
     - /changelog
 ---
 
+# Demo v0.7.0
+- Engined updated (Windows only) **Note: Aggressive antivirus software may flag this update. For more information on why this happens, please see the [known issues page](/loa-known-issues)**
+- Addressed performance issues on Windows (thank you Eblo!)
+- Fixed a bug where defending and fast forwarding couldn't be used simultanously in battle
+- Miscellaneous fixes for certain exotic controller types
+
 # Demo v0.6.9
 - Fixed a softlock when entering Mordin Village from the Swamp
 
