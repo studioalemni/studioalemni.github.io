@@ -5,6 +5,9 @@ redirect_from:
     - /changelog
 ---
 
+# Demo v0.7.1
+- Fixed a small bug that addresses some performance on all platforms
+
 # Demo v0.7.0
 - Engined updated (Windows only) **Note: Aggressive antivirus software may flag this update. For more information on why this happens, please see the [known issues page](/loa-known-issues)**
 - Addressed performance issues on Windows (thank you Eblo!)
