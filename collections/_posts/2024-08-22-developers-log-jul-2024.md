@@ -13,7 +13,7 @@ image_basepath: "/assets/news/2024/aug/"
 
 Hello everyone, 
 
-Sorry this devlog ended up arriving so late. Between some exciting news that I needed to prepare for, as well as battling a few demons (metaphorical, not literal. I _wish_ I was that cool), it was tough to get words on paper.about:blank#blocked
+Sorry this devlog ended up arriving so late. Between some exciting news that I needed to prepare for, as well as battling a few demons (metaphorical, not literal. I _wish_ I was that cool), it was tough to get words on paper.
 
 I have a lot of really big announcements and excitement to share, though. Also, I'm going to try something a little different and put a little summary / table of contents at the start of each devlog. 
 
