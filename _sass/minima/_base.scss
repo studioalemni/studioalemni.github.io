@@ -330,6 +330,10 @@ table {
     * {
       display: inline;
     };
+  }
+  .hero-button {
+    display: flex;
+    justify-content: center;
   }  
 
   @include media-query($on-palm) {
