@@ -38,3 +38,5 @@ Developed using RPG Maker XP
         {% endif %}
     {% endfor %}
 </div>
+
+<div style="text-align: left;"><small><strong>Note:</strong> These credits include both current and past contributors. As such, some individuals listed here may no longer be actively working on, or affiliated with the project.</small></div>
