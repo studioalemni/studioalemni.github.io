@@ -27,7 +27,7 @@ Legends of Astravia is a charming retro RPG set in a world of magic coming soon 
 {% include button-link.html thumb=':video_game:' text='Itch.io' url=itch_link %}
 <br>
 {% include button-link.html thumb=':butterfly:' text='Bluesky' url=bluesky_link %}
-{% include button-link.html thumb=':framed_picture:' text='Tumblr (AMA)' url=tumblr_link %}
+{% include button-link.html thumb=':framed_picture:' text='Tumblr' url=tumblr_link %}
 <br>
 {% include button-link.html thumb=':tv:' text='Youtube' url=youtube_link %}
 {% include button-link.html thumb=':speech_balloon:' text='Discord Server' url=discord_link %}
