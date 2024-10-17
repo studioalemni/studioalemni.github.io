@@ -17,7 +17,11 @@ redirect_from:
 {% capture kofi_link %}{{ game.links.ko-fi }}{% endcapture %}
 {% capture discord_link %}{{ game.links.discord }}{% endcapture %}
 
-Legends of Astravia is a charming retro RPG set in a world of magic coming soon to PC, macOS and Linux.
+Legends of Astravia is a charming retro RPG set in a world of magic--[Learn more](/games/legends-of-astravia).
+
+Below are various links to platforms where you can follow progress and get updates, wishlist, play the demo, or support its development.
+
+Of course, official news and announcements will always be posted here first, on the ["News & Announcements"](/news) page. You can also subscribe via RSS below--we'll have a how-to guide available for that soon.
 
 <br>
 
