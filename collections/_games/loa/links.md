@@ -30,7 +30,7 @@ Of course, official news and announcements will always be posted here first, on 
 {% include button-link.html thumb=':video_game:' text='Itch.io (Demo & News)' url=itch_link %}
 {% include button-link.html thumb=':newspaper:' text='RSS Feed (News)' url=rss_link %}
 <br>
-{% include button-link.html thumb=':butterfly:' text='BlueSky' url=bluesky_link %}
+{% include button-link.html thumb=':butterfly:' text='BlueSky (Twitter-like)' url=bluesky_link %}
 {% include button-link.html thumb=':framed_picture:' text='Tumblr' url=tumblr_link %}
 {% include button-link.html thumb=':speech_balloon:' text='Discord Server' url=discord_link %}
 <br>
