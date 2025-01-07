@@ -31,7 +31,7 @@ bluesky_username: astraviagame.bsky.social
 
 # Custom asset url. Currently set to a subdomain pointing at a cloudflare CDN,
 # serving from a B2 bucket.
-content_url: https://assets.studioalemni.com/file/sa-web-assets
+content_url: https://assets.studioalemni.com/
 
 collections_dir: collections
 collections:
