@@ -53,7 +53,7 @@ From my perspective as a developer, this is somewhere between crowdfunding and j
 
 It also gives me a good idea just how many people have faith in the game to the point of wanting to support it early on and be involved in its growth. And those who do support it are rewarded in a way. I think it's a win-win.
 
-Of course, if you have any remaining concerns, I want to make sure they're heard. As such, I created a "Early Access Q&A" thread in Steam: (link)
+Of course, if you have any remaining concerns, I want to make sure they're heard. As such, I created a "Early Access Q&A" thread in Steam: [https://steamcommunity.com/app/1233680/discussions/0/591769824782233895/](https://steamcommunity.com/app/1233680/discussions/0/591769824782233895/)
 
 Please do not hesitate to share your thoughts! Early Access is all about a good relationship between the developer and the player.
 
