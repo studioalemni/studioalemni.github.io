@@ -87,10 +87,6 @@ Otherwise, as much as we’d love to have Legends of Astravia available in vario
 
 Feel free to contact us if you are interested, but please understand that this isn’t a guarantee that your services will be used. Translation into other languages probably will not be considered until the game’s completion, even if offered for free, as the process to integrate is too arduous and takes away from the game’s development.
 
-#### Is this game LGBT?
-
-[https://www.youtube.com/shorts/V6wKoKZxzrw](https://www.youtube.com/shorts/V6wKoKZxzrw)
-
 #### How can I help or support the game?
 
 [Wishlisting on Steam]({{ loa.links.steam | relative_url }}) is a huge help, and costs nothing. You can also [donate directly to the game](https://ko-fi.com/astravia). The biggest aspect affecting development progress is funding at this point.
